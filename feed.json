@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T08:40:51.249739+00:00",
+  "generatedAt": "2026-05-29T12:12:57.579493+00:00",
   "items": [
     {
       "headline": "Defence innovation and procurement reform: an empirical evaluation of the US Defense Innovation Unit - Bruegel",
@@ -28,6 +28,13 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FZEZKUFJDa2F0SGFwMXJyaDJGRy1rY2Y2elVtTVFISHJkUEdUSDMzd1Q1aTIxRlh5S3JSNkdTQzdzdktqNXMyQjdxTQ?oc=5",
       "pubDate": "Thu, 28 May 2026 09:37:18 GMT",
       "snippet": "Ukraine Allocates $244M for Weapons Production, Defense Expansion&nbsp;&nbsp;Kyiv Post"
+    },
+    {
+      "headline": "How the Pentagon plans to spend $50 billion on drone warfare - Defense One",
+      "source": "Defense One",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSDJaN3VUWEVMT3AxTmFIVkItanM1NEZmSnFHX2V1eEczZ1c2S0VZc3RkWFpwNjhEcC1XNk5PMTNpelNYM05jTzFfOHNrcENUaXRFZUlnZ2l2MVhxVnBOR3doWk5SSGowWkZvc0JCT0FUdFFER0tSR0tIXzNTaV9HcnBrRHNOa1NsSXBwZHNtWGNXOXM5Q0tuQU1hZ0lyN1VqTUNtWVlOSEFzS2R1M0IxZ0pkN2JBa1RRREx2RFM1R1Fsdw?oc=5",
+      "pubDate": "Thu, 28 May 2026 08:44:09 GMT",
+      "snippet": "How the Pentagon plans to spend $50 billion on drone warfare&nbsp;&nbsp;Defense One"
     },
     {
       "headline": "Ukraine seeks air defence, artillery and drone support ahead of June Ramstein reeting - Defence Industry Europe",
@@ -72,13 +79,6 @@
       "snippet": "Ukraine Sets Record With FPV Drone Strike 102 km Behind Russian Lines&nbsp;&nbsp;UNITED24 Media"
     },
     {
-      "headline": "US Army Demo Validates Radar-AI Integration for Counter-Drone Weapon Stations - The Defense Post",
-      "source": "The Defense Post",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNjJUMS1ndlpZSzhTMS1NaXkyc1M4U1gtQmZrLVdGX0U1UE56blRPQ2lpam0xZjdsdkhERGUyc2g5R0Jfc0ZOeEdUaVp6aGpCeFh4V1JwdWhVODV4M2pwaVhfR1NmQW9PdDZBWmpVa0VUMW9fUUhpZWZqMkZNTUM4LXhxZWFVN3ViSEZnUVFsSFRUbGlSVm9zX204RVNCVXN4Q0prREsxZVpZSmExRXF6aS1JX2xkbzjSAbwBQVVfeXFMT1RfVmFHeEZBeEkxOE50eTNTaHYyNExWVWtQNE02N3drLUE0UzljZUE0TUVFaVNPMThFNng4dVFmbTd3ZHdfQ2pvUm9xWTdCcnhzZm43bUwwVi01bnJtU3JEWWlNTS1MNXNybktqclpNRW5tYThkRVRpSUJjMjdyc282U2VQelczcTlqS1owNGxzZXlKZmFVYndvYjNYNW9zcGtZejdSa3UxQmpHcU5MTWo1SXpoeTBPZHNuS2g?oc=5",
-      "pubDate": "Tue, 26 May 2026 11:19:37 GMT",
-      "snippet": "US Army Demo Validates Radar-AI Integration for Counter-Drone Weapon Stations&nbsp;&nbsp;The Defense Post"
-    },
-    {
       "headline": "Ukraine Opens Battlefield-Tested Startup Competition to Global Defense Firms at Defense Tech Valley 2026 - UNITED24 Media",
       "source": "UNITED24 Media",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcVI5V0paNjdBR0FCODNEenZVbXFxb2JPZlRwQUNYSnFPbFd6VTBBMFlsLUtJLUxTQjhvNjdpMHNUWHVxX1JPRDRpZlUxenFSWVkyX01UUmdxNmpKbmZfWG1oT3Z3TFBWRnhaQzVuZjZMM2JQb2w5TVp4dmR1Y1JBWThFWnJLaXVGREpidkxHOHdQQ0NPdWtHV1pCWXZIUWJlcy00cDE1ZkxMWjRHQW5TQXFjY0pubThvcmpSb3ZORExDVFRtSWJBbEhvWko2WXVzZlNGVU9sWGUxUlZQUVVBWjJndExHUQ?oc=5",
@@ -93,18 +93,18 @@
       "snippet": "Ukraine’s defence intelligence details Russia’s new Geran-4 jet-powered strike drone and foreign components&nbsp;&nbsp;Defence Industry Europe"
     },
     {
-      "headline": "Ukraine says middle-strike drone operations are increasing pressure on Russian military infrastructure - Defence Industry Europe",
-      "source": "Defence Industry Europe",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb1B0dklzZ2hHWVdrUlByTmdhVU5GVHMtTk85Yy1SOFpRaGswT0lDcGVpbHd3c0tja0JGdUFabER0NFNMc3B2WXlTbk1CaXVraEQtNDFhMHlKbHBjdVBHLTNWSGtRNm5WMXRYY1cwMjJyNmhxMDd6cnFKcV9vOXRwVTRRTU05NnFSYS0wT3liOFFsVW1hcFpCRUxpZG9mWWRJLWdMWXJGYjVoazZHVkJWM3d6YXdid1l5UENETHhIQWY4RENyckNacnQzWQ?oc=5",
-      "pubDate": "Mon, 25 May 2026 17:28:39 GMT",
-      "snippet": "Ukraine says middle-strike drone operations are increasing pressure on Russian military infrastructure&nbsp;&nbsp;Defence Industry Europe"
-    },
-    {
       "headline": "US Army Pushes Ukraine-Style FPV Drones Down to Platoon Level in Live-Fire Test - UNITED24 Media",
       "source": "UNITED24 Media",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUGdPLW1samc3UklLRk5OQ2NGX0RXbGFTRnFJbzloaExBcDhfQTVLTUkzR01ZWWg5bU5VeWdKNFFTQzkweTVJQlZjSWpTR24wUXZmUWs1N0ZCMkh0SnBDUzM0d0h1SXdWTk10RDNpcV9pZlBRUUZ5RG1ieEI4ZVVRZVhhb2pvcWQ0MTZwd3QyOWx1N3Vqc2ZDM0Q3Q2JpeE1lekhKcGtOREs1VkdpYTB5LXlUbmVGRFIt?oc=5",
       "pubDate": "Mon, 25 May 2026 12:23:07 GMT",
       "snippet": "US Army Pushes Ukraine-Style FPV Drones Down to Platoon Level in Live-Fire Test&nbsp;&nbsp;UNITED24 Media"
+    },
+    {
+      "headline": "Halyna Yanchenko, Member of Parliament of Ukraine - Ukrinform - Ukrainian National News Agency",
+      "source": "Ukrinform - Ukrainian National News Agency",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ2lMY1VsLUhOWU80ajNDTk15bl9HeXIwLWlWeXZNcS1JTkRKTDU1RGRDSHZ6clM3Zm9XdU1zcXo3V3YwNU5CZms2N2NoZGZCeFVsdXZKVzkxNkJEc0h0LUZSVS1JUk9YWVRKMXJWdjA3N0VxYkRNdUdDUVl6SVg1WjJ6dU1Eb2l1WVprbDlhRlY0a0VweWFGd1dXQkFDeUFIRGxSS9IBqgFBVV95cUxNVzRkeFQwX0RaM0g4N0Z4UV9GMTJHeDRKeGNBM0JiaHdUbnQ1VXFCRHJCZjBvV00tSXBmaTRSQ0JfNW9qaFhvUnJ6X280QkJwYnJ4NXZvSGVlZnd6aUU0RzVPejJNSUJCaDB3YXA5eU1kNHBaaldaOG1ISzlhVkJJZU1qdW40WnA1bDlTdVRXbDF3TFI5M2dqWDlMZ0xBa2d5a1NMWlNySmJZUQ?oc=5",
+      "pubDate": "Sat, 23 May 2026 12:30:00 GMT",
+      "snippet": "Halyna Yanchenko, Member of Parliament of Ukraine&nbsp;&nbsp;Ukrinform - Ukrainian National News Agency"
     }
   ]
 }
