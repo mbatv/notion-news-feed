@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T00:04:24.348484+00:00",
+  "generatedAt": "2026-06-06T04:35:48.158887+00:00",
   "items": [
     {
       "headline": "Russian Shahed-type drone brings FPV drones into central Zaporizhzhia – regional governor - Ukrinform - Ukrainian National News Agency",
@@ -7,6 +7,13 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR1dMOGNkZk5JbnRkb2dNNFY2YVFHdVNMSHJOOFY2LXpfWWNRam9TYVlTSi1ZVWVWSGk3TnZiYzVhZ0VjTHBrUjU4VDkzcTQteXFueWpkOGJyLWQySFFhVXd4YzlzUXVjV2F2bElwNzBFeGYzYVVxTUpwaUJrdnh4dFE1Nl9PU0lDMnBURGtTVUNSSkdvei1sbFFQelRHcWJQaDZSSENTQ2JsNjFQd1ZTSlJKWGV2SlE1X3o2SDk4djV3RDJ3SjB4eDktTzlaNnBDZktvYXBuZ9IB1wFBVV95cUxQR1dMOGNkZk5JbnRkb2dNNFY2YVFHdVNMSHJOOFY2LXpfWWNRam9TYVlTSi1ZVWVWSGk3TnZiYzVhZ0VjTHBrUjU4VDkzcTQteXFueWpkOGJyLWQySFFhVXd4YzlzUXVjV2F2bElwNzBFeGYzYVVxTUpwaUJrdnh4dFE1Nl9PU0lDMnBURGtTVUNSSkdvei1sbFFQelRHcWJQaDZSSENTQ2JsNjFQd1ZTSlJKWGV2SlE1X3o2SDk4djV3RDJ3SjB4eDktTzlaNnBDZktvYXBuZw?oc=5",
       "pubDate": "Fri, 05 Jun 2026 20:59:00 GMT",
       "snippet": "Russian Shahed-type drone brings FPV drones into central Zaporizhzhia – regional governor&nbsp;&nbsp;Ukrinform - Ukrainian National News Agency"
+    },
+    {
+      "headline": "Under ‘Drone Dominance’ push, Pentagon begins receiving small drones - Breaking Defense",
+      "source": "Breaking Defense",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWN0bzNhb1pXM0Y1QW9FYVVlaWdNeVQ1b0g1c3F0eWZveHEzb0wtZW9BVktZTFdmVmg2M2ozTi01dnZLc1hWLXhETTZobkw3a1pSOC1xeTByMUI4US16U2szRjFyYVo5UGdTZS1EX3Q0ckxZSi1SalVzUXNraUZnbFJwWnZXeFFiMXp2TnRCNzdEWVpONkczUlRuNDQ2eFdNamJSRQ?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 16:20:12 GMT",
+      "snippet": "Under ‘Drone Dominance’ push, Pentagon begins receiving small drones&nbsp;&nbsp;Breaking Defense"
     },
     {
       "headline": "Ukraine open to joint defense projects with Slovakia — FM Sybiha - Ukrinform - Ukrainian National News Agency",
@@ -65,13 +72,6 @@
       "snippet": "Global Counter Drone System Market Size to Worth USD 22.88&nbsp;&nbsp;GlobeNewswire"
     },
     {
-      "headline": "Collective Defence Buys Asterion to Unite Cybersecurity, Counter-Drone Capabilities - The Defense Post",
-      "source": "The Defense Post",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uMUowaXFGWk5GT29Va1ppRi1xMUtYMzJ0YkZ6cmVGaUk5MDJZdkxvV0x0WS1aTWFlMUh0WHVtdS1xSVIzQk5hZ010MTJaVGVHWkZWUXh0ckdiamREbExabnlOZ3lRTVVmQ0dNLTlmZTNLQjN5LXN4cDVvRdIBgAFBVV95cUxNODNlejJpcWE3WEtOUkY3SE1DTzVXR0NJWjE2aTdSTWl3QUZtVTVfZ2lZUmVtR2RON191QkZHWXFsTGFTR3JzM054MVZRb2hhNlVtb284RkpnOVpIZTREY0ZYREl5YzVxRmVyN1kwUVZUSGRxSFY2dlUxWVZ3OXZrcA?oc=5",
-      "pubDate": "Thu, 04 Jun 2026 08:27:41 GMT",
-      "snippet": "Collective Defence Buys Asterion to Unite Cybersecurity, Counter-Drone Capabilities&nbsp;&nbsp;The Defense Post"
-    },
-    {
       "headline": "Ukrainian Military Calls on NATO Allies to Help Build Record 20 Million Drones - Kyiv Post",
       "source": "Kyiv Post",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vMWlyOF9WYjZrYTJ5d1ZpcjlXYWZvVWdDOHNfcnhOekJBX3RlY1oxWlJnRUhQemp2T1hqTDhZSEJ4akdMLVdLUU56OA?oc=5",
@@ -100,11 +100,11 @@
       "snippet": "Startups shore up Ukraine's defences with sea drone swarms and robot trucks&nbsp;&nbsp;Reuters"
     },
     {
-      "headline": "ELRON VENTURES ANNOUNCES INVESTMENT OF UP TO $300 MILLION WITH RAFAEL ADVANCED DEFENSE SYSTEMS TO ADVANCE ITS M&A STRATEGY FOCUSED ON ACQUIRING DUAL-USE DEFENSE-TECH COMPANIES – Company Announce - Financial Times",
-      "source": "Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmQxTmJ6bWR2dHdGZjhYMk1tLWR0TThybmRsYUFfWVA5Ul9WSjhjZk9ERjh6bmRxQXJNdFdUTmFCd1EzUGlCbWRfT0pnMkpNazBHNVBra0otS09oN2EtUTJDWkV6R25yOVNYN3RsaXppVUZPT3h0c3gyQ3B6VUV3bkN2aFlHS0M3clMyRm5KbmNhRUtNMGNpRg?oc=5",
-      "pubDate": "Mon, 01 Jun 2026 16:27:00 GMT",
-      "snippet": "ELRON VENTURES ANNOUNCES INVESTMENT OF UP TO $300 MILLION WITH RAFAEL ADVANCED DEFENSE SYSTEMS TO ADVANCE ITS M&A STRATEGY FOCUSED ON ACQUIRING DUAL-USE DEFENSE-TECH COMPANIES – Company Announce&nbsp;&nbsp;Financial Times"
+      "headline": "Motorola Solutions to Acquire D-Fend Solutions, an Industry Leader in Counter-Drone Systems - Business Wire",
+      "source": "Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUnkzWDhrTkJGNklNQ1B3QVBwUlJQcGtCV3BHY3Rrc1JXSzFpa2VFQlVoSnc3RnFpME1rSGRSWGdyNnhXQlpaQ0cwOVI1blc3ZE9hOWxzdnJCZFVVRWpGbWhrQ0w2cXdWUTIycFZsTzlpaTNnRWpMUmwzVTk1UUxBX0pvMDhDYVE2MFFkd08xYzFOdGZRejRLVE1lZmxKenNCb00tSmhudGZ1MU1JMVZXSENPTF94UGlkNXhkTzdYa3FPaXB5cWdycXRZSzktWUszb3UxcHZoTGRjdHlLNFNYUw?oc=5",
+      "pubDate": "Mon, 01 Jun 2026 10:50:34 GMT",
+      "snippet": "Motorola Solutions to Acquire D-Fend Solutions, an Industry Leader in Counter-Drone Systems&nbsp;&nbsp;Business Wire"
     }
   ]
 }
