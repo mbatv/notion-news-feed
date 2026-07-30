@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-07-30T12:11:52.619113+00:00",
+  "generatedAt": "2026-07-30T14:41:22.891799+00:00",
   "items": [
+    {
+      "headline": "US Startup Reimagines Military Sensing by Letting AI Control the Optics - The Defense Post",
+      "source": "The Defense Post",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DcWNHT19mVVpUanpxdjZ5dDJWMi1zQ0NvT0VldGQ5WjhpTUNQTXpMLThGVGhSZXYxMkNfX0dTVE5NVkxLRkdjWjN1YTUyTHRPXzl4SXZ4LUFEYlQ2ZWdRVzZTc2F3SVpkYmNZYUxWMNIBdEFVX3lxTE1ZS2J6cWtNTVRIQ0NiSHJsZTlaalVZbXY5a1NORWJjZ09mcmd4U1F5TDhENE1Fckt5WHZpc1VIUUhzdEhqaS1OSDRMMFlzaXFZUHJLQllsYnF0Q2NxTDJDYTNDUG9kN0ZMUzBBMm5tZFJMaXNj?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 13:57:25 GMT",
+      "snippet": "US Startup Reimagines Military Sensing by Letting AI Control the Optics&nbsp;&nbsp;The Defense Post"
+    },
+    {
+      "headline": "Link defence R&D support to testing and procurement, EU told - Science|Business",
+      "source": "Science|Business",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdFR6eVEzLWt1ZV9FeFdfbU5JWHVDRU5IaXA4bzhxTnlpSGpMdVE2am1EbldVRHFxZWZ5YUpYOG1kcklKRnV5VXFhMU94aEdZMnVobmNWb2VoZzlQWTV3UmN5dm5sZ2V5X1FVTGx6SlJBY19yM3RrVy1Gc01jT3FDX3FiQVR3eTVkNTlEZnRwSjE3QQ?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 13:05:39 GMT",
+      "snippet": "Link defence R&D support to testing and procurement, EU told&nbsp;&nbsp;Science|Business"
+    },
     {
       "headline": "CHAOS Industries Acquires Atropos to Expand Counter-Drone Capabilities - The Defense Post",
       "source": "The Defense Post",
@@ -21,13 +35,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ3pERldnOXI3TWJMdEpZaEV0eFZtajVnVE81RGxGYXJSTWIxbjNLVGhHM1RJSV9jSHA5M1VGREtCTXgyN091Q3NObXFoT2RkWHRDLWxxYjE0WUtNdFRtNmhUOFhlVFJudy1GbWNSZTJpZjZVemp0RXI1ajdzWWhYUFFSVlUyTDBLYW9wXzFScEsxcE5RaElYVU8td3NnakQ5WVQxdw?oc=5",
       "pubDate": "Wed, 29 Jul 2026 16:15:41 GMT",
       "snippet": "Ukraine, NATO launch new funding program to counter Russian drones&nbsp;&nbsp;Breaking Defense"
-    },
-    {
-      "headline": "Teledyne FLIR Defense Receives Significant Order to Support AV’s Titan MS Counter-UAS Solution for JIATF-401 - Business Wire",
-      "source": "Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZHpxUndzcFk5RHFIUTRtVVN0aUt1VUNkWlRTWF9IVXhIT3Jkd0ZvRUNieDFOdU9Rc0RRNTV3OER0TlhRejhJWG1KVUVucTh0TDRjN0pZNEJlY1oteXdLUGMzX1pIb3kyR2VFc3JMakVycl8tRFBuQkRQUUFCcEtpWHlCZHRDc0dhNldwdWhEVHd4cTJ1Q1BWZURVVWE5QVZhVGNtbWhYTzl3SE1HMkI0ZkdZNnRpaWx2YzVuWURDVHN0ckl3VU93NnBBTXJDanc5U2pHd3REMmdaMllQTVAtLS11Q2ZQeVlkcG1rWkdDM0VrOGlFdURz?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 13:07:00 GMT",
-      "snippet": "Teledyne FLIR Defense Receives Significant Order to Support AV’s Titan MS Counter-UAS Solution for JIATF-401&nbsp;&nbsp;Business Wire"
     },
     {
       "headline": "Ukraine Takes on Multi-Band Drone Threats With New Electronic Warfare Tech - The Defense Post",
@@ -51,18 +58,11 @@
       "snippet": "NATO procurement agency selects five suppliers for counter-drone framework as Allies seek faster access to C-UAS systems&nbsp;&nbsp;Defence Industry Europe"
     },
     {
-      "headline": "Ukrainian military ordered record UAH 5 B worth of weapons through Brave1 Market in June - Ukrinform",
-      "source": "Ukrinform",
+      "headline": "Ukrainian military ordered record UAH 5 B worth of weapons through Brave1 Market in June - ukrinform.net",
+      "source": "ukrinform.net",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbHNyNFRvRkljSXFRNEladElOT19oMnFaRXppZWM2WDJWbWJ0RkhXWnFOX3RraHNfV0dYS1ZJd1JhcnY1YzJBaTAtdjZXdWtFWDEtOTBKNkR2VlVRVGlvQmdwZnRUWF9vRElfWDJFR2FJYTNpdEUzOGFXeHQ4WXdMSmI2djlkci1RRnc1VW9DNE4zVjUyYl9EaUdzTG1nSzNNc0RVc1FHb1BSSFJLSFNrSW9vNHpFSlRmQ2ZKTnJYa3dLZERHalF2c0UtQWkzZUgyX082Z9IB2gFBVV95cUxQSVFkcEVQTEV2Y2k3LW9PSGtLZld5Zi10QUJGQnZiTy1JSFowdm9yWXFtZFVKR0c2V0RHbHNzUXE3RDkwYXQzQlhkZ0k2WVdNazAtSWRNUnRjdl9aMGlQUUlDT2VSeEpsQ3h3d2xVbkdNSVJJdUhoTkVVTGtiMmFPSkpudXJBNU9yQTA0c1ozQmYzWTVTQmpBMXhrWnZPdW9KUnhyUzhiNmpnQU9KWXd3TzhscXhqUEtNSzUzbldLaUFMeU94dUJUQlB0VjBLYXZoVHdhMjl0MTNUQQ?oc=5",
       "pubDate": "Wed, 29 Jul 2026 03:32:00 GMT",
-      "snippet": "Ukrainian military ordered record UAH 5 B worth of weapons through Brave1 Market in June&nbsp;&nbsp;Ukrinform"
-    },
-    {
-      "headline": "A drone maker from Ukraine will open its first American plant in North Carolina - Axios",
-      "source": "Axios",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY1RwREFQUW1tOFFjd215a0g1TEIzZUZCQVFWdW80THl4NC1wcnFxekJXci00NW9GdHczZnUwa2Q5ZXFmcHU0Ry1JVTdrbTBBaFJRaFhhY3FJVW0xLWotcVpuMUJ6WVNFR2tLM1pQc0RKTWc5b2ViaHF5dnZFdklXZjBsTW0wS0ZDNnRBVnJyTGNEZEQ3OWVuT1pTUlVDMGtCWEpFeDkzdXhPWFJCSVMtLVZLdk1WbXFRZkE?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 19:22:39 GMT",
-      "snippet": "A drone maker from Ukraine will open its first American plant in North Carolina&nbsp;&nbsp;Axios"
+      "snippet": "Ukrainian military ordered record UAH 5 B worth of weapons through Brave1 Market in June&nbsp;&nbsp;ukrinform.net"
     },
     {
       "headline": "China Tightens Dual-Use Export Controls on European Defense Suppliers - The Defense Post",
