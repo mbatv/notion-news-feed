@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T17:48:10.606135+00:00",
+  "generatedAt": "2026-08-03T19:25:49.614659+00:00",
   "items": [
     {
       "headline": "Ukraine’s Drone Diplomacy Goes Global With 9 Deals Signed and 15 More Underway - UNITED24 Media",
@@ -21,13 +21,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT0NhX3NvcjhRd3RMVlhwVXFGZWF6NlJDdlNCVC1kMUdFbnkzcXlCbHFERDJjSG1qS0R0eDlmN0NhNXlNb2F0UzhoNGdxbHZaMkZ2MDZrWkZtNGpwVkt6MXdqMHVnM0ozSjRKQVAwRWNPazVyRUVRY01QVDZEUnhQaGZuTkc5RzVncFBPZ29QODZLQV9GOEZlZzgzYzFEOE9jNFZiaGpVTE1NZEtqQTBiTDR6M2xjVDh4cDdzSWZUdWk0WUpRb1g3dm4xbENsUQ?oc=5",
       "pubDate": "Mon, 03 Aug 2026 08:39:16 GMT",
       "snippet": "Magura Sea Drones Goes From Hunter to FPV Mothership, Striking Russian Radars in Crimea&nbsp;&nbsp;UNITED24 Media"
-    },
-    {
-      "headline": "Ukraine Strikes Russian Drone Development University, Wildberries Logistics Hub, Crimea in Overnight Raid - Kyiv Post",
-      "source": "Kyiv Post",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DS1FjSHB1SFBybWlGOWphXzZfU0o1cGZ4VWY2TkRzUTlDaHdORk1HQWxyMEZTZGR1aW10RmhGNVBaR0hCelJlc0hHOA?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 07:48:03 GMT",
-      "snippet": "Ukraine Strikes Russian Drone Development University, Wildberries Logistics Hub, Crimea in Overnight Raid&nbsp;&nbsp;Kyiv Post"
     },
     {
       "headline": "Ukrainian Drones Strike Russian Drone Tech Hub, Wildberries Center - UNITED24 Media",
@@ -58,6 +51,13 @@
       "snippet": "Ukraine’s F-Drones Delivers 2,000 FPV Drones to Pentagon for Drone Dominance Trials&nbsp;&nbsp;UNITED24 Media"
     },
     {
+      "headline": "Lithuania, Philippines Explore Ukraine-Tested Maritime Security Technologies - The Defense Post",
+      "source": "The Defense Post",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZHF1dWF4SlRoblE2czRGM2pFQUNxY25oalpFNERHVUV0WldBdFUtM05UTlBMaGMtZUY2bkRsTnZCSmtoLTJ5VDdfaVotc01xczBSajFjcWdpLWZFWHItZHBTTTFCX0paazVyR2xhX2tpbUZmT3pFc3BFUlpDVUExUjNPYW1nMEdBaXZjTnBxY9IBlAFBVV95cUxNRDE0aUNRYWV3cWxNd0d4amltbUQ5RVRuZE9KQzZhVVNGSTFnT2hmUWQ5cUdSWlAyWTgwQm9GeWstNVRWRkwzcE5Icl9KTzlmWUVtVTdhQ1VvQUF5aW9taFU5UERJR3FKQ0liZ3VPUkZRRHNLYzQ5M0Z5aHl1eXFwOUk0d2dHNUdGWTRwX3h0SHRfZXY5?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 10:26:44 GMT",
+      "snippet": "Lithuania, Philippines Explore Ukraine-Tested Maritime Security Technologies&nbsp;&nbsp;The Defense Post"
+    },
+    {
       "headline": "CHAOS Industries Acquires Atropos to Expand Counter-Drone Capabilities - The Defense Post",
       "source": "The Defense Post",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeFM2QTNyeXFNRmRlV1U0OThKckYxYm9wRlBXdVItUnBYN1pPYW5zVUxVTTZUbHdsY3JqWXNkUTBaVEtfb2xlazlKdFF3WU9ZaF9EdGZDOTYycUI4MFptclBVMFJ1UHE2MHBrbS1PQ0s4MjB3anRYcnBadmJpMU1ySdIBhgFBVV95cUxQRnNjN1ZRY1AtMTVEZkoxdUZzaFZSZWNkOTBnY0hkbFdGd3g4WmtSV3oxaXJFVEtXcTNiTmRNVkw3WlFEeC10S2F1ekdibi0tV0JNeGR4eVI4bW9BeUhRRXBZLUVDRUdXX0FQdDB6dGw1RE1wX09pdjlVemJPQWR6b0VsT2t5QQ?oc=5",
@@ -79,11 +79,11 @@
       "snippet": "UK Opens Defense Innovation Round for Counter-Drone, Maritime Defense Technologies&nbsp;&nbsp;The Defense Post"
     },
     {
-      "headline": "Ukrainian military ordered record UAH 5 B worth of weapons through Brave1 Market in June - ukrinform.net",
-      "source": "ukrinform.net",
+      "headline": "Ukrainian military ordered record UAH 5 B worth of weapons through Brave1 Market in June - Ukrinform",
+      "source": "Ukrinform",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbHNyNFRvRkljSXFRNEladElOT19oMnFaRXppZWM2WDJWbWJ0RkhXWnFOX3RraHNfV0dYS1ZJd1JhcnY1YzJBaTAtdjZXdWtFWDEtOTBKNkR2VlVRVGlvQmdwZnRUWF9vRElfWDJFR2FJYTNpdEUzOGFXeHQ4WXdMSmI2djlkci1RRnc1VW9DNE4zVjUyYl9EaUdzTG1nSzNNc0RVc1FHb1BSSFJLSFNrSW9vNHpFSlRmQ2ZKTnJYa3dLZERHalF2c0UtQWkzZUgyX082Z9IB2gFBVV95cUxQSVFkcEVQTEV2Y2k3LW9PSGtLZld5Zi10QUJGQnZiTy1JSFowdm9yWXFtZFVKR0c2V0RHbHNzUXE3RDkwYXQzQlhkZ0k2WVdNazAtSWRNUnRjdl9aMGlQUUlDT2VSeEpsQ3h3d2xVbkdNSVJJdUhoTkVVTGtiMmFPSkpudXJBNU9yQTA0c1ozQmYzWTVTQmpBMXhrWnZPdW9KUnhyUzhiNmpnQU9KWXd3TzhscXhqUEtNSzUzbldLaUFMeU94dUJUQlB0VjBLYXZoVHdhMjl0MTNUQQ?oc=5",
       "pubDate": "Wed, 29 Jul 2026 03:32:00 GMT",
-      "snippet": "Ukrainian military ordered record UAH 5 B worth of weapons through Brave1 Market in June&nbsp;&nbsp;ukrinform.net"
+      "snippet": "Ukrainian military ordered record UAH 5 B worth of weapons through Brave1 Market in June&nbsp;&nbsp;Ukrinform"
     },
     {
       "headline": "China Tightens Dual-Use Export Controls on European Defense Suppliers - The Defense Post",
