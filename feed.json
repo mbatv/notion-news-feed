@@ -1,13 +1,6 @@
 {
-  "generatedAt": "2026-10-04T23:26:10.684537+00:00",
+  "generatedAt": "2026-10-05T02:15:58.583361+00:00",
   "items": [
-    {
-      "headline": "Lviv to host Defense Tech Valley 2026 on Sept 16-17 - Ukrinform",
-      "source": "Ukrinform",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTkFjMDM2RTl1NlJ3eVNsZTRyaGFhRjItbGN3b1RPWGR4ZlZxbDkyM1pxUmgtclhBaGNTeGJYNFZ3b18tcktpTTJyRDdtOXd0ZXBGYXpiQU5KaWhHbFdXVVBBY0xXWnVLOXFnd09fX1MxY3g4bHJoUlBxeW5VeS03NXNncU9Lc2xpS0ZHalJ1aGNwMDlhOGfSAZsBQVVfeXFMTlVPbDYxd2R3OFZaQnBFdGMzNU1hZVhIZVpFRm1XNzNseEJFU0R0UUxoOWFBd0ladnhObDIzT3lOSGxnNDBOeW5mTkFkczA2QU9xbjR4NkhKNE1KMEF1NzFhOVRpY2U1cmNqaElqMUJXeVh2Sl9ibzQyblZkSUN4cU9qWktuTGxsNjhYcWVXa2t0czNpaExWYXBCemM?oc=5",
-      "pubDate": "Sun, 04 Oct 2026 20:25:10 GMT",
-      "snippet": "Lviv to host Defense Tech Valley 2026 on Sept 16-17&nbsp;&nbsp;Ukrinform"
-    },
     {
       "headline": "'Very dangerous moment' — Russia sharing jet-powered drone tech with North Korea, Zelensky says - The Kyiv Independent",
       "source": "The Kyiv Independent",
@@ -23,6 +16,13 @@
       "snippet": "Ukraine believes Russia shared jet-drone technology with North Korea, says Zelenskiy&nbsp;&nbsp;Reuters"
     },
     {
+      "headline": "Ukraine, Germany sign series of defense industry cooperation agreements - Ukrinform",
+      "source": "Ukrinform",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV001cWZYcDFxWEkxVElhemFVM2ZDYmtic192UUFkdVRRb1BLSENLdU1WSjRCUVktMXZnNXFudFJwVTllQmt3bktTeDVsUi11MVRhSjNTdUV3bTktVGl4a2JOUDN2U0dkQXk1Mk1VVnhuaXhhOU5McGZiZ25zd2ZQMkx4UndsSWdOTl9qYWlhRy1FQ2FicnZ0WDFHT0VsMW1GeG1XanRxQjU3M0JrYTdMWUo2R0FSYWE0VDdSbEVBV3pEQdIBxwFBVV95cUxNdkR4NzIwbXBVc05XS09yTmNrTWhtSExBdC1lT05OZkg2em1OTldXbXlYNEhaSk9XVFFRWmRKcTdRbno1WE5CS3dOYUY4SXVfaXlaM3lJUHdoUlZvWVkzLWNKaEZ6OW1IdHdlZzR4MEQ1dlBYY29wVG1OdUlic2t6a05ENWdUS0dnVFpqVUhwUjFFQk1SOVlZcnktNFRCMXMzMi1CQkJaWjZGYVFnZVhrdnhoa0p1SFJIeEpoQjF1Z0hKZ0RzZVRZ?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 16:00:00 GMT",
+      "snippet": "Ukraine, Germany sign series of defense industry cooperation agreements&nbsp;&nbsp;Ukrinform"
+    },
+    {
       "headline": "Ukraine joins European Defence Fund — Zelensky signs law - Ukrinform",
       "source": "Ukrinform",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTWZQWk1XcHkxQXpEMUFmekdZRXlESTZVWEpVNHNxVUdERjFRcjlsbzRQdDRtTWptUThMTVp5MFRCYUF2MU1YdkhiTFljQzcyYUljX1Qxa19IVEpITU5keGFTR0pFazNmdmxyUlY1X2dfWE1oalNQWkxFUFVUYzJWN1JpRjAxYjJQZ0NiY2NwNl9NRDNXOUIxd3lyb0MwcW4xdnlFLXVwakpYbU1fVS1rY0owc9IBswFBVV95cUxNTWZQWk1XcHkxQXpEMUFmekdZRXlESTZVWEpVNHNxVUdERjFRcjlsbzRQdDRtTWptUThMTVp5MFRCYUF2MU1YdkhiTFljQzcyYUljX1Qxa19IVEpITU5keGFTR0pFazNmdmxyUlY1X2dfWE1oalNQWkxFUFVUYzJWN1JpRjAxYjJQZ0NiY2NwNl9NRDNXOUIxd3lyb0MwcW4xdnlFLXVwakpYbU1fVS1rY0owcw?oc=5",
@@ -30,11 +30,11 @@
       "snippet": "Ukraine joins European Defence Fund — Zelensky signs law&nbsp;&nbsp;Ukrinform"
     },
     {
-      "headline": "European Defence Fund draws record 612 proposals for €1 billion funding round, targeting missile defence, tanks and naval systems - Defence Industry Europe",
-      "source": "Defence Industry Europe",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSW5tdHVvcnQ2OHRPTkk5Sy1IWlNjUUx2RW5lSnd1QXZiY3E1dWtCLWptTERkbHd3OUpJM2FLLUFDNW1UdFFvQWNZLWxaYWtCX010MGRoQUowQ0hndV9PNGczLWE3bFRMNjZvYmxhd1k5bGJzVlYxOURrMHllSGEya29CVlY0c2RZcHpDUXluSlFoME9HLWJ6TExraGRqZWpaek1HSy1oa25CUjNGN0V4TnZoVndUMWZFVngxVlhKeXdQYUJoTkkxRzVJLVMwczBvTWVoNFR5SzB5Q2k0c0p0T3Y1VG95SlVOcmxhQw?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 10:25:30 GMT",
-      "snippet": "European Defence Fund draws record 612 proposals for €1 billion funding round, targeting missile defence, tanks and naval systems&nbsp;&nbsp;Defence Industry Europe"
+      "headline": "Nautical And Marine Startups See Stepped-Up Funding - Crunchbase News",
+      "source": "Crunchbase News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0lNRlRpMk5tQlVaRTBRTUlFdm9oSzR1RkVqaHh5RkUxT0pBVTdER0NkS0h3ckppWnFVN1prLUVKeUxTN2d5V2lXX1lrZU1neEM0M0xmOUJKQ1ZoR0J4dTNCc1BtSnJhdnFubk1uUE5tQjRwQ0ttbmNaSHljeWtzdklsck9hSDJGVk4zeExyb281dVNsVU9oNDdIdEYyNER5YVAzNFJuSDNmYkk1QzAxWg?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 11:00:13 GMT",
+      "snippet": "Nautical And Marine Startups See Stepped-Up Funding&nbsp;&nbsp;Crunchbase News"
     },
     {
       "headline": "Ukraine’s M-Fly Raises New Funds to Scale Drone Tech - The Defense Post",
@@ -58,25 +58,18 @@
       "snippet": "Battling sand and wind, Pentagon evaluates counter-drone tech at southern border exercise&nbsp;&nbsp;Breaking Defense"
     },
     {
-      "headline": "U.S. Army says Domestic Shield awards expand counter-drone procurement across 10 suppliers, including Echodyne radar systems - Defence Industry Europe",
-      "source": "Defence Industry Europe",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNmpuQVRUSTdJSEhQNjZUT1RjVTB4dW4yOUd5UERKTXRISVlDQldNVHY5R1FKQ1ZLNTN6NTFjTXpCcW5QdzRUejd5a0ltY1U5eUg3b3F6Rnk5dVQ4OWZJYmlYZjJwT1M3eDdyUEhTaHAwRGVqRGVsMFdRblM5TmM3d0lmTlZ6WnE5RjBVUEJGaExpcUVhcUFpU3JVWG9WV1dxWUlNaThMd1BTZFg2ZjlmeEN4UkZtRWN1cWhZT1hWU2h4aVF6SGJHRUpENUl6OHFmeHh1OGlOWTRjNXdnS3BLcHBYeXhxZw?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 13:32:41 GMT",
-      "snippet": "U.S. Army says Domestic Shield awards expand counter-drone procurement across 10 suppliers, including Echodyne radar systems&nbsp;&nbsp;Defence Industry Europe"
-    },
-    {
-      "headline": "TAF Industries Brings Ukraine’s Battlefield Drone Experience to New European Production Partnership - UNITED24 Media",
-      "source": "UNITED24 Media",
+      "headline": "TAF Industries Brings Ukraine’s Battlefield Drone Experience to New European Production Partnership - united24media.com",
+      "source": "united24media.com",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNUtCQVpHN0k4Y096SWtYRmFiWlVNbzlrSmZxY2xBZlhUY3doTVZ5NGlfOHFnVDN5SEpocWxVVWFreEEtWW1FQmxWWjhjbVNwalBHYWw3dVpCaDk3cmE2emp1N2pRVDZ6Rk5aakNWdTFoZkNVUURYekE0WVlZTmRDbnROd2QyNXZRU25QRFlVSlh0TTZpZjFXVTRmM0p2MmZUV2tGQkVUZlJyRjZtN1JnQXFnNHlpYnBQQlBoSFVLbF8xZHdidm04VU9WUXJ5SDBLLU1DU0FTQ1JmbVU?oc=5",
       "pubDate": "Thu, 01 Oct 2026 13:02:57 GMT",
-      "snippet": "TAF Industries Brings Ukraine’s Battlefield Drone Experience to New European Production Partnership&nbsp;&nbsp;UNITED24 Media"
+      "snippet": "TAF Industries Brings Ukraine’s Battlefield Drone Experience to New European Production Partnership&nbsp;&nbsp;united24media.com"
     },
     {
-      "headline": "Russia Is Racing to Make Geran-5 Too Fast for Ukraine’s Drone Interceptors—But There’s a Catch - UNITED24 Media",
-      "source": "UNITED24 Media",
+      "headline": "Russia Is Racing to Make Geran-5 Too Fast for Ukraine’s Drone Interceptors—But There’s a Catch - united24media.com",
+      "source": "united24media.com",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMHdPSVd2Vm4wZTF1OHFpZjU4NXRQNW94MENKZjB5c0I1T3lqdFhMQ1lHUkZ4MVpfLXpkU3pGWW5tMFozWU0tM2RTNUlnZXNkeEpOS2xJT0g2QlNpWTRPYmFQcFo3X3J5RzAxeW1Oa0hkTm13b0J5ckRZczZXSTk5N3AwNTRuRTQ5U1FfZUJyVlctNXk2eUg0anpudmEtYTRDTHZkamNEOE9WVTByRUd0NmdfZjYwY1cydWRsNTcweXlOT1V1cnJUeTkxVFN3QWJRcURn?oc=5",
       "pubDate": "Thu, 01 Oct 2026 09:07:13 GMT",
-      "snippet": "Russia Is Racing to Make Geran-5 Too Fast for Ukraine’s Drone Interceptors—But There’s a Catch&nbsp;&nbsp;UNITED24 Media"
+      "snippet": "Russia Is Racing to Make Geran-5 Too Fast for Ukraine’s Drone Interceptors—But There’s a Catch&nbsp;&nbsp;united24media.com"
     },
     {
       "headline": "Army awards up to $7B in sprawling counter-drone IDIQ - Breaking Defense",
@@ -86,11 +79,11 @@
       "snippet": "Army awards up to $7B in sprawling counter-drone IDIQ&nbsp;&nbsp;Breaking Defense"
     },
     {
-      "headline": "Ukrainian Defense Tech L7 Simulators Standardized Across NATO Logistics Network - UNITED24 Media",
-      "source": "UNITED24 Media",
+      "headline": "Ukrainian Defense Tech L7 Simulators Standardized Across NATO Logistics Network - united24media.com",
+      "source": "united24media.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUEVuWDhXUW1abUR3b2pLSDBMWloxcVE1OHd6cDVpTzUzUE41X2cxV1pXNFk3blB5M1kzYXduY1o2NzRLSnRPZnU0SzMzcXpFd0FyZ25YbnJnRXFBNVRKcEFvTlNZWTQzR2Rpcm5VZjkzY2hNQ0tjMTF4dE1PcnJUaG10dWJnd1dVRmNnMTdIRE4wZExDYWZheXd1ZlhFMXR5WDZOTVB5ckxxY0loT0FOSHg0aVRWaG5j?oc=5",
       "pubDate": "Tue, 29 Sep 2026 17:36:06 GMT",
-      "snippet": "Ukrainian Defense Tech L7 Simulators Standardized Across NATO Logistics Network&nbsp;&nbsp;UNITED24 Media"
+      "snippet": "Ukrainian Defense Tech L7 Simulators Standardized Across NATO Logistics Network&nbsp;&nbsp;united24media.com"
     },
     {
       "headline": "Protego Ventures closes debut $125M fund for Israeli defense tech - TechCrunch",
@@ -100,11 +93,18 @@
       "snippet": "Protego Ventures closes debut $125M fund for Israeli defense tech&nbsp;&nbsp;TechCrunch"
     },
     {
-      "headline": "Ukraine’s Drone War Is Changing Every Few Months as Military Warns 2027 Will Demand Faster Tech - UNITED24 Media",
-      "source": "UNITED24 Media",
+      "headline": "As private investment in defense increases, some bottlenecks in funding: AIA-Bain - Breaking Defense",
+      "source": "Breaking Defense",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdGtUMUFMbjA5ZFp5NUs5ZTNCa3YwLWRFRVBwNnNQYmxnbVNNMHhPNDNQaDJEUzhadF9hajdyYVVBTmVmVllxYUVwcmhEYURjeVJFZnVMdy10ZTZkenlhaHN1SGhoVEp6NERuWkhEZVg4ZldBd2loZmlpbUp0WXp4YklZdzZCWXRiR2d1Y0pOc3dHQW5qa0NhR0pKQ1dvR2JSajk1MkwxMUJrOE1ObHpEMGZnbnBCdXM?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 12:48:15 GMT",
+      "snippet": "As private investment in defense increases, some bottlenecks in funding: AIA-Bain&nbsp;&nbsp;Breaking Defense"
+    },
+    {
+      "headline": "Ukraine’s Drone War Is Changing Every Few Months as Military Warns 2027 Will Demand Faster Tech - united24media.com",
+      "source": "united24media.com",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTHVWMlVlSW5hS0g5dVRzTE9kLWVwdTAtcXByRmpRTjR3bXVmbDNwQXBieUVmd3FuaHZ6dWhPcnV5ZGswdmE3eUo5Y3hpZF94RHpMSWtHX05BNnBXU05GNVNrV3kxS0FINHptMk1YQTl3MktJSUV6X1FkNjNEbXBOd3hZS2JOaktFVmd6djRqb1FrS1N1UWw5Tkd2RHp3bGpZQWlvVFlzaWhsdFJXckg0bTF4T20zVFpFMmFiQjEtQ3ZmbUpCUmE0d0p4cEZOdDBNdDlOMGRJNVg?oc=5",
       "pubDate": "Sat, 26 Sep 2026 07:00:00 GMT",
-      "snippet": "Ukraine’s Drone War Is Changing Every Few Months as Military Warns 2027 Will Demand Faster Tech&nbsp;&nbsp;UNITED24 Media"
+      "snippet": "Ukraine’s Drone War Is Changing Every Few Months as Military Warns 2027 Will Demand Faster Tech&nbsp;&nbsp;united24media.com"
     }
   ]
 }
