@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T19:22:26.887928+00:00",
+  "generatedAt": "2026-10-22T22:36:09.404389+00:00",
   "items": [
     {
       "headline": "Nokia and ICEYE to Support Ukraine’s Defense With Satellite Capabilities Under €300 Million Finland Agreements - UNITED24 Media",
@@ -44,6 +44,13 @@
       "snippet": "Ukraine Spots Mystery Russian Drone With Red-Starred Wings and Gasoline Engine&nbsp;&nbsp;UNITED24 Media"
     },
     {
+      "headline": "'Very difficult to defeat' — How Russia uses mesh networks inside drones to precision-strike Kyiv - The Kyiv Independent",
+      "source": "The Kyiv Independent",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOVpwdm9oX1NwYXFxa1ZsbWI4NF8zNEEwdEJZQnM1WGpLWllPNVhfYXpZeC1tVnh6RkVKaW1ZTkYzQ0doMDhPRTQtWUVUM3c0ejBSUlBxUndYY2hxQ2ZONndScDNPUmZubnVQUGI5eXRhRFpGRm5OQWZYMnB0Z21KTjBMTXNMVnpRRTNCRHV0NFUtY05XWkhhUUYyMFVaNndyc3U0ZUdqOTR5cjBaU3B0cVZ2eXlab2VSbkwza0dXRU9NZw?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 06:43:46 GMT",
+      "snippet": "'Very difficult to defeat' — How Russia uses mesh networks inside drones to precision-strike Kyiv&nbsp;&nbsp;The Kyiv Independent"
+    },
+    {
       "headline": "European Defence Innovation Forum to bring industry and investors together on Ukraine lessons and arms production - Defence Industry Europe",
       "source": "Defence Industry Europe",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSmRsNDRFVHlZV25LQ3lwZFBWbmJZbXZ1ZGFvRHh3VnpOb3JyYjh0b3VsZTdoVWpnQUdydHRxcGdZenFQQ2tldFpFWGZoTEM5Q0hVZ0U2TTVBWUtIend3SnpYeWg1WlIzeWFmU2pwbTZTQ0lLWG5qQTVOVnREbVpMOERsU0Q2Q1VfcVUtVW9jV3ViX1hkTTR4VnY5Zlg0VVBEaE1rZUFUbjk1N1lOdjVGRjlGR3dVeXVpVDlFSXRCdS1zY09iVG1DRkY1SnBOWTQ4VzJyTVhDTjZNQQ?oc=5",
@@ -65,13 +72,6 @@
       "snippet": "Ukraine’s Fiber-Optic Drones Can Now Hear Russian Troops Talking From 30 Meters Away&nbsp;&nbsp;UNITED24 Media"
     },
     {
-      "headline": "Ukrainian Engineers Develop Drone Detector That Reveals What Russian Drones See - UNITED24 Media",
-      "source": "UNITED24 Media",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOHg5UkVpbElJdEQwVU05Y2Nqb0pBSWQ5Y0Fmd29HSktLODZjNnItbEJ1bmhZSlE5MktuMlVTQktYaGxEcTlJdUVqZTdWVHRlZmZOWkRpWVctN0c5UnF2djA2OUNmd3JiUlh6TXVVWVh0ak1KVDJDYzBnR3VLQ18tSTBHR1NsbTF4a0hmSjI2VXVVZHlBQ1BnQVdPbEdkaHpVNWZpbzIzRWVCbEUyc3dLYkFiUGFCUnZ2Rlg0UkxUOXhhQQ?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 12:06:38 GMT",
-      "snippet": "Ukrainian Engineers Develop Drone Detector That Reveals What Russian Drones See&nbsp;&nbsp;UNITED24 Media"
-    },
-    {
       "headline": "Ukraine Exposes Foreign-Made Components Behind Russia’s Anti-Jamming Tech Used in Missiles and Drones - UNITED24 Media",
       "source": "UNITED24 Media",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTXJQemd2LXhrLVN6WVlUcEV4MmNLSTRvbEJNUm1hUTBWbjZtNHJlLTkxT01zbDdjWU91LXhtVHl3b0cyYnR4U2tOaFowcVkxQzF6QkZOLTBweFloa0JnVUVrWlY4Q3NDeVBDOGtLMlVGQ3dZMHlSaGE3N1IzbjduZTFTVTdVaGRYVG1Ramo4ZEZ1UklIY19heV9qVHZqakhiQ3JOSm5uY0JqLWNWSXFDQWJXNjVIVlFEWm1NdHBoT0xlYmduYkhuUXExRmlIXy12SEd5SXRULWRDOXJ3em1aSw?oc=5",
@@ -86,18 +86,18 @@
       "snippet": "Military Engineering Showcase highlights UK defence innovation&nbsp;&nbsp;GOV.UK"
     },
     {
-      "headline": "UK defence secretary calls for stronger defence industry and faster delivery of military capabilities during Washington talks - Defence Industry Europe",
-      "source": "Defence Industry Europe",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMHZVTUlyUzJRWDR6LURaMmxCZEpXc1Azd05FOFhObU5pS3F5TnZ3eDhkQTR1RldLRm92bU9hMXNLSTRuSFBOOUl6ZlFNYWp5VWtBWGJjYzJpeFhCcno0elZDRWl5ckhCMUY0b1dySUZmZ216QWtaZzFNSjRNNVhfQnB2VDEtcWlGcEx6Y0VzYU5XRGFVVlZ2YkJYR3dEZGxBaS0wQXowMDhzV3lXZjF0a212c05qY3FSalJZQjRQaVgyRVlraW5xdmgxSHdDTThQVVhuNVd5RmdUQzBNU3ZRN0RON2I2d24xd2c?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 21:44:21 GMT",
-      "snippet": "UK defence secretary calls for stronger defence industry and faster delivery of military capabilities during Washington talks&nbsp;&nbsp;Defence Industry Europe"
-    },
-    {
       "headline": "Ukrainian WildField Ventures Plans to Invest Up to $15M in Defense Startups - Kyiv Post",
       "source": "Kyiv Post",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zR012NlVyUEdyWDM5SXNTQW51ODM2U3dtdUJENDhVTmFCSF9vY2hCSXduRVViV21kelV4alJISmk2aDhMVlNLaEFhTQ?oc=5",
       "pubDate": "Fri, 16 Oct 2026 15:37:14 GMT",
       "snippet": "Ukrainian WildField Ventures Plans to Invest Up to $15M in Defense Startups&nbsp;&nbsp;Kyiv Post"
+    },
+    {
+      "headline": "Drone-Hunting Ukrainian Startup Zvook Lands Czech Investment - Kyiv Post",
+      "source": "Kyiv Post",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBMNEtWekR3X0dMOWJTTEJ5bHVSaUhKY2VqTVFYdFdlTU9sb083TmlFeEN5SDJ0SzZ3RDVZTGxEMVp4MVA1Z3pPM1UxUQ?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 13:46:48 GMT",
+      "snippet": "Drone-Hunting Ukrainian Startup Zvook Lands Czech Investment&nbsp;&nbsp;Kyiv Post"
     },
     {
       "headline": "NATO fund targets drone defence technologies as Ukraine reshapes priorities - Reuters",
